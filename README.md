@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Prashik Athawale
-**Aspiring Software devloper, Frontend  || Backend || java **
+Aspiring Software devloper, Frontend  || Backend || java 
 
 Email Me 👉 ✉️ **athawaleprashik619@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
