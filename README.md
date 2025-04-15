@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **athawaleprashik619@gmail.com** For Collaboration/Project 
 - 🤔 **I’m looking for help with:** i`ll update it whenever i need
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Prashik Dev
+- 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
   
