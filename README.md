@@ -2,9 +2,8 @@
 Aspiring Software devloper, Frontend  || Backend || java 
 
 Email Me 👉 ✉️ **athawaleprashik619@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** mini project for college i.e of potato leaf disease prediction
-- 🌱 **I’m currently learning:** React.js
+ 
+- 🌱 **I’m currently building fullstack projects** 
 - 👯 **I’m looking to collaborate on:** backend projects
 - 🤔 **I’m looking for help with:** i`ll update it whenever i need
 - 💬 **Ask me about:** Collaboration, Tech Support
