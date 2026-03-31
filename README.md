@@ -6,6 +6,7 @@ Email Me 👉 ✉️ **prashikathawale81@gmail.com** For Collaboration/Project o
 - 🌱 **I’m currently building fullstack projects** 
 - 👯 **I’m looking to collaborate on:** backend projects
 - 💬 **Ask me about:** Collaboration, Tech Support
+- 🧠 I'm currently learning Generative-AI, System Design and DSA
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** he/him
 
